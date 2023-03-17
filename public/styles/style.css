@@ -1,0 +1,55 @@
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;  
+}
+#messages{
+    background-color: aliceblue;
+    width: 700px;
+    height: 700px;
+}
+
+#user_form{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.button{
+    border-radius: 20px;
+    background-color: rgb(16, 21, 97);
+    color: white;
+    width: 55px;
+}
+#user{
+    border-radius: 20px;
+    ;
+}
+.h1{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: -75px;
+    font-size: 32px;
+}
+#message_form{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: -110px;
+}
+#message{
+    border-radius: 20px;
+    font-size: 30px;
+    width: 500px;
+    
+}
+.butt{
+    border-radius: 30px;
+    font-size: 20px;
+}
